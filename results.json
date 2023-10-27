@@ -1,0 +1,20 @@
+[
+    {
+        "UUID":1,
+        "Name":"Patagonia Quarter Zip",
+        "Brand":"Patagonia",
+        "Price":60
+    },
+    {
+        "UUID":2,
+        "Name":"IKEA Standing Desk",
+        "Brand":"IKEA",
+        "Price":250
+    },
+    {
+        "UUID":3,
+        "Name":"64oz Water Bottle",
+        "Brand":"HydroFlask",
+        "Price":30
+    }
+]
