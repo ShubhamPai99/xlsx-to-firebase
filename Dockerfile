@@ -1,4 +1,4 @@
-FROM registry.cigna.com/redhat/python-39-rhel8:latest
+FROM 
 
 WORKDIR /app
 COPY . .
